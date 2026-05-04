@@ -17,7 +17,7 @@ One author can write many books
 One customer can place many orders
 One order can contain multiple books
 🛠️ Technologies Used
-SQL (MySQL / PostgreSQL / SQLite compatible)
+SQL (SQL SERVER)
 📂 Project Structure
 sql-bookstore-project/
 │
